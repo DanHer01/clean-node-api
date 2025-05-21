@@ -1,43 +1,25 @@
 # Clean Node API
 
-A boilerplate project for building scalable and maintainable Node.js REST APIs following clean architecture principles.
+A starter template for scalable Node.js REST APIs using clean architecture.
 
 ## Features
 
-- Modular folder structure
-- Separation of concerns (controllers, services, repositories)
+- Modular structure
+- Separation of concerns
 - Dependency injection
-- Environment-based configuration
-- Ready for unit and integration testing
+- Configurable environments
+- Test-ready setup
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js (v14+)
-- npm or yarn
-
-### Installation
+## Usage
 
 ```bash
 git clone https://github.com/your-username/clean-node-api.git
 cd clean-node-api
 npm install
-```
-
-### Running the App
-
-```bash
 npm start
 ```
 
-### Running Tests
-
-```bash
-npm test
-```
-
-## Project Structure
+## Structure
 
 ```
 src/
@@ -51,4 +33,4 @@ src/
 
 ## License
 
-MIT
+No license. Use at your own risk.
